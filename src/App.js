@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <h1>hello shubham your project is hosted successfully, Congrats</h1>
         <p>
           this is my hosting practice project
         </p>
